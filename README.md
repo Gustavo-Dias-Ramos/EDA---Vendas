@@ -12,10 +12,10 @@ Esta análise foi feita utilizando o dataset disponibilizado por Keith Galli (ht
 - Order Date: da data da compra;
 - Purchase Address: o endereço de entrega da encomenda.
 
-Após análisarmos os dados, buscamos responder às seguintes perguntas:
-* Pergunta 01: Qual o melhor mês para vendas e qual o valor vendido neste mês?
-* Pergunta 02: Qual cidade teve a maior quantidade de vendas?
-* Pergunta 3: Visando melhorar as vendas, qual o melhor horário para campanhas de marketing e anúncio de produtos? (Qual o melhor horário para vendas?)
-* Pergunta 4: Quais produtos são comumente vendidos juntos?
-* Pergunta 5: Que produto vendeu mais? Podemos ver algum motivo do porque este produto ser mais vendido?
+Após análisarmos os dados, buscamos responder às seguintes perguntas: <br>
+Pergunta 01: Qual o melhor mês para vendas e qual o valor vendido neste mês?<br>
+Pergunta 02: Qual cidade teve a maior quantidade de vendas?<br>
+Pergunta 3: Visando melhorar as vendas, qual o melhor horário para campanhas de marketing e anúncio de produtos? (Qual o melhor horário para vendas?)<br>
+Pergunta 4: Quais produtos são comumente vendidos juntos?<br>
+Pergunta 5: Que produto vendeu mais? Podemos ver algum motivo do porque este produto ser mais vendido?
   
